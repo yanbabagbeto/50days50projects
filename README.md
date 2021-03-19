@@ -3,3 +3,5 @@ A code for the projects by Brad Traversy. I followed this projects for 50 days a
 
 
 I will add a project a day. Technically this project will be finished by the May the 08th 2021.
+
+## Setting up the projects template
